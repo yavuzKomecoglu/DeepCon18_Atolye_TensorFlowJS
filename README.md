@@ -7,8 +7,8 @@
 Atölye uygulamasını online olarak test etmek için [tıklayınız](https://yavuzkomecoglu.github.io/deepcon_demo/).
 
 ## Sunum
-  - PowerPoint versiyonu için [tıklayınız.](https://github.com/yavuzKomecoglu/deepcon18_atolye_tensorflowJS/blob/master/DeepCon18_sunum.ppt)
-  - PDF versiyonu için [tıklayınız.](https://github.com/yavuzKomecoglu/deepcon18_atolye_tensorflowJS/blob/master/DeepCon18_sunum.pdf)
+  - PowerPoint versiyonu için [tıklayınız.](YavuzKomecoglu_DeepCon18_Sunum.ppt)
+  - PDF versiyonu için [tıklayınız.](YavuzKomecoglu_DeepCon18_Sunum.pdf)
 
 ## Faydalı Kaynaklar
 ##### Resmi Kaynaklar
